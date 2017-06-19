@@ -155,7 +155,7 @@ jQuery(function($) {
 			var lat_lng = '42.592204,-71.284101'.split(',');
 		
 			// Create an array of styles.
-			var styles=[{"featureType":"all","elementType":"all","stylers":[{"saturation":0},{"gamma":0.5}]}];
+			var styles=[{"featureType":"all","elementType":"all","stylers":[{"saturation":-100},{"gamma":0.5}]}];
 		
 			var styledMap = new google.maps.StyledMapType(styles,{name: "Styled Map"});
 		
