@@ -49,6 +49,7 @@
 	line-height: 1.8;
 	text-decoration: none;
 	color:  inherit;
+	font-weight: normal;
 }
 .footer-distributed .footer-links a:hover{
 	text-decoration: underline;
