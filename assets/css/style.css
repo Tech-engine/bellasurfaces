@@ -103,7 +103,7 @@ Last change: 13/03/2016
 		width:60px;height:30px;float:left;background-image:url('../img/Bella-surfaces-logo.svg');background-size:100%;background-repeat:no-repeat;margin-top:-50px;display:block;
 	}
 	footer hr{
-		border-top: 1px solid; color: #d9d9d9; padding-bottom: 20px;border-left: 0px;border-right: 0px;
+		border-top: 2px dashed; color: #d9d9d9; padding-bottom: 20px;border-left: 0px;border-right: 0px;
 		border-bottom: 0px;width: 90%;
 	}
 
