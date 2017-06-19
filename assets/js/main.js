@@ -217,7 +217,7 @@ jQuery(function($) {
 				autoplayTimeout:carousel_speed,
 				autoplayHoverPause:true,
 				items: 1,
-				margin: 0,
+				margin: 200,
 				navigation: true,
 				loop: true,
 			});
